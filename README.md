@@ -2,7 +2,8 @@
 
 This is an Sample NFT Collection built on Ethereum using the ERC721 standard. It allows users to buy, sell, and trade non-fungible tokens. The Collection has been deployed on the BNB testnet.
 
-*Getting Started*
+**Getting Started**
+
 Prerequisites
 To run this project, you will need the following:
 
