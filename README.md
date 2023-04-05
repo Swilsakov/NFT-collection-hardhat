@@ -1,8 +1,10 @@
-# Sample Hardhat Project
+# Sample NFT Collection on Hardhat
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
+This is an Sample NFT Collection built on Ethereum using the ERC721 standard. It allows users to buy, sell, and trade non-fungible tokens. The Collection has been deployed on the BNB testnet.
 
-Try running some of the following tasks:
+`Getting Started`
+Prerequisites
+To run this project, you will need the following:
 
 ```shell
 npx hardhat help
