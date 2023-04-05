@@ -7,9 +7,9 @@ This is a Sample NFT Collection built on Ethereum using the ERC721 standard. It 
 ### Prerequisites
 To run this project, you will need the following:
 
-Node.js and npm
-Metamask browser extension
-A BNB testnet wallet with test token
++ Node.js and npm
++ Metamask browser extension
++ A BNB testnet wallet with test token
 
 
 ### Installing
