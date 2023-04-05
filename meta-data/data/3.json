@@ -1,0 +1,15 @@
+{
+  "description": "Certificate Zero2Hero",
+  "image": "ipfs://QmVEJ5Sa7jLTyno4sonuGzoRy6oH9oCPwoW7rDgxpfNpwD/3.jpg",
+  "name": "Ananas certificate Zero2Hero #3",
+  "attributes": [
+    {
+      "trait_type": "Base",
+      "value": "High"
+    },
+    {
+      "trait_type": "Level",
+      "value": 5
+    }
+  ]
+}
