@@ -36,3 +36,14 @@ NETWORK_URL=<Network url>
 npx hardhat compile
 npx hardhat run scripts/deploy.js --network bnbt
 ```
+
+### Testing
+To run the tests, run:
+```
+npx hardhat test
+```
+
+### Built With
++ Solidity
++ Hardhat
++ ethers.js
